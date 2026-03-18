@@ -21,4 +21,8 @@ PART 2
   Task 5 
   <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/3c2bdeb1-1edf-4d08-b6c4-f2d1153f736b" />
 
+  task 6 
+  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/142fdb37-e7db-4d80-a130-ee4acc28984c" />
+
+
 
