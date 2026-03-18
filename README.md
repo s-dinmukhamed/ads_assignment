@@ -24,5 +24,16 @@ PART 2
   task 6 
   <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/142fdb37-e7db-4d80-a130-ee4acc28984c" />
 
+  task 7
+  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/c8c49c44-6809-45fe-a36b-2225c8c47807" />
+
+
+PART 3 
+
+  Task 8
+  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/87992e75-7bf7-48af-b897-8f3e609bcde3" />
+
+
+
 
 
