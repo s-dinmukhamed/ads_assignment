@@ -36,6 +36,10 @@ PART 3
   Task 9 
   <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e1af1e49-5262-488d-a95d-b6b94f659ba4" />
 
+  Task 10
+  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/13f73187-4a06-4ec7-910f-627c142372e8" />
+
+
 
 
 
