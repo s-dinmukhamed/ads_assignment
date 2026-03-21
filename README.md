@@ -1,43 +1,57 @@
 # ads_assignment
-Sydykov Dinmukhamed IT-2502 
+**Name**: Sydykov Dinmukhamed \
+**Group**: IT-2502
 
-PART 1 
+---
+## PART 1
 
-  Task 1
-  <img width="1470" height="956" alt="Снимок экрана 2026-03-17 в 11 48 47" src="https://github.com/user-attachments/assets/3fd7c5c3-e283-4978-a80a-e0521544dbe7" />
+  ## TASK 1 - Print Digits of a Number 
+  ![img.png](img.png)
+  **I solved a problem by using recursion and repeatedly dividing number by 10 to execute digits by one, and printing digits after recursion that outputs digits in correct order**
 
-  task 2 
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b1adff15-175e-4f9c-bb1a-3f94e629c6b2" />
+  ## **TASK 2** - **Average of elements**
+  ![img_1.png](img_1.png)
+  **I solved this task using recursion by calculating the average step by step. First, I take the previous result, turn it into sum, add next number, and then divide by how many elements I have now.**
 
-  task 3 
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b016098e-0939-4447-a5b9-a6341b998455" />
+  ## **TASK 3** - **Prime number check**
+  ![img_2.png](img_2.png)
+  **I solved this task using recursion by checking if the number can be divided by smaller numbers starting from 2. If no divisor is found until i*i > n, I say the number is prime, otherwise it is composite.**
 
-  task 4
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/0020363c-6107-4c79-bbb7-be4ee2323465" />
+  ## **TASK 4** - **Factorial**
+  ![img_3.png](img_3.png)
+  **I solved this task using recursion by multiplying the number by the factorial of the previous number. The recursion stops when the number becomes 0 or 1, where the result is 1.**
 
+---
 
-PART 2
+## **PART 2**
 
-  Task 5 
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/3c2bdeb1-1edf-4d08-b6c4-f2d1153f736b" />
+  ## **TASK 5** - **Fibonacci number**
+  ![img_4.png](img_4.png)
+  **I solved this task using recursion by adding two previous Fibonacci numbers to get the next one. The recursion stops when the number is 0 or 1, because these are base cases.**
 
-  task 6 
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/142fdb37-e7db-4d80-a130-ee4acc28984c" />
+  ## **TASK 6** - **Power function**
+  ![img_5.png](img_5.png)
+  **I solved this task using recursion by multiplying the number by itself y times. The recursion stops when the power becomes 0, because any number to power 0 is 1.**
 
-  task 7
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/c8c49c44-6809-45fe-a36b-2225c8c47807" />
+  ## **TASK 7** - **Reverse output**
+  ![img_6.png](img_6.png)
+  **I solved this task using recursion by printing the last element first and then calling the function for the remaining elements. This way, the numbers are printed in reverse order without using another array.**
 
+---
 
-PART 3 
+## **PART 3** 
 
-  Task 8
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/87992e75-7bf7-48af-b897-8f3e609bcde3" />
+  ## **TASK 8** - **Check digits in string**
+  ![img_8.png](img_8.png)
+  **I solved this task using recursion by checking each character one by one. If all characters are digits, it returns “Yes”, but if it finds a non-digit, it returns “No”.**
 
-  Task 9 
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/e1af1e49-5262-488d-a95d-b6b94f659ba4" />
+  ## **TASK 9** - **Count characters in string**
+  ![img_7.png](img_7.png)
+  **I solved this task using recursion by removing one character at each step and adding 1 to the count. The recursion stops when the string becomes empty, and then returns 0.**
 
-  Task 10
-  <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/13f73187-4a06-4ec7-910f-627c142372e8" />
+  ## **TASK 10** - **Greatest Common Divisor**
+  ![img_9.png](img_9.png)
+  **I solved this task using recursion and the Euclidean algorithm by repeatedly replacing the numbers with (b, a % b). The recursion stops when b becomes 0, and then the result is the GCD.**
 
 
 
